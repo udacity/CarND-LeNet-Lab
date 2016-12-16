@@ -1,0 +1,5 @@
+name: CarND-LeNet-Lab
+dependencies:
+- pip >= 9
+- pip:
+  - tensorflow >= 0.12.0rc1

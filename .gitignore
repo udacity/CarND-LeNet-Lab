@@ -1,3 +1,11 @@
+# Temporary project files
+MNIST_data/
+checkpoint
+lenet.data*
+lenet.index
+lenet.meta*
+*.sw*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
