@@ -1,5 +1,6 @@
 name: CarND-LeNet-Lab
 dependencies:
 - pip >= 9
+- jupyter
 - pip:
   - tensorflow >= 0.12.0rc1
