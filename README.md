@@ -7,17 +7,6 @@ Implement the LeNet-5 deep neural network model.
 ### Dependencies
 This lab requires:
 
-* [TensorFlow](https://www.tensorflow.org/)
+* [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit)
 
-Use [Anaconda](https://www.continuum.io/downloads) to install the dependencies:
-
-1. `conda env create -f environment.yml`
-2. `source activate CarND-LeNet-Lab`
-
-### GPU
-If you have access to an NVIDIA GPU, you can accelerate the training of your network by using TensorFlow on a GPU.
-
-1. Install the core dependencies (see above)
-2. Install [CUDA](https://developer.nvidia.com/cuda-downloads)
-3. Install [cuDNN](https://developer.nvidia.com/cudnn)
-4. Install TensorFlow with GPU support: `pip install tensorflow-gpu`
+The lab enviroment can be created with CarND Term1 Starter Kit. Click [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) for the details.
